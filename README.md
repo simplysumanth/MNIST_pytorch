@@ -1,2 +1,2 @@
 # MNIST_pytorch
-handwrittten digts recogniser using CNN
+Simple Hand Written digits recogniser using pytorch
